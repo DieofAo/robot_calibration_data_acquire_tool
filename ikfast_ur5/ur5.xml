@@ -1,0 +1,8 @@
+<robot file="./ur5_dot8.dae">
+ <manipulator name="ur5" >
+  <base>base_link_inertia</base>
+  <effector>wrist_3_link</effector>
+  <Translation>0 0 0</Translation>
+  <rotationaxis>0 0 0 0</rotationaxis>
+ </manipulator>
+</robot>
